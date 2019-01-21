@@ -1,5 +1,5 @@
 package amountinwords;
-//asdfasdf
+
 public class AmountInWords {
 
     public static String convertRupeesToWords(int num) {
